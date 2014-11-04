@@ -22,8 +22,8 @@ var draw =function(){
         y-=3;
     }
 rect(67,128,h,i);
-        h+=3;
-        i+=3;
+        h+=1;
+        i+=1;
     if (h>261){
         h=261;
     }
